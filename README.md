@@ -3,8 +3,8 @@ I'm a software developer
 
 🛠  Tech Stack
 
-🗄  Backend:  Node.js
+🗄  Backend:  Node.js Keystone.js
 🌐  Frontend:  React Next.js
-🛢  Database:  MongoDB MySQL Postgresql
-⚙️  VCS:   Git GitHub Markdown
+🛢  Database:  MongoDB Postgresql
+⚙️  VCS:   Git GitHub
 🔧  IDE's:  Visual Studio Code 
