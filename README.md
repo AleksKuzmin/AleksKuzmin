@@ -8,4 +8,4 @@ I'm a software developer
 🛢  Database:  MongoDB Postgresql\
 ⚙️  VCS:   Git GitHub\
 🔧  IDE's:  Visual Studio Code 
-![Alt Text](https://tenor.com/view/coding-gif-24297652)
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
