@@ -7,5 +7,5 @@ I'm a software developer
 🌐  Frontend:  React Next.js\
 🛢  Database:  MongoDB Postgresql\
 ⚙️  VCS:   Git GitHub\
-🔧  IDE's:  Visual Studio Code 
+🔧  IDE's:  Visual Studio Code \
 ![Alt Text](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
