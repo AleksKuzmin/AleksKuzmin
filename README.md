@@ -4,7 +4,7 @@ I'm a software developer
 🛠  Tech Stack
 
 🗄  Backend:  Node.js Keystone.js\
-🌐  Frontend:  Angular React Next.js GraphQL Javascript TypeScript\
+🌐  Frontend:  Angular React Next.js GraphQL Ionic Javascript TypeScript\
 🛢  Database:  MongoDB Postgresql\
 ⚙️  VCS:   Git GitHub\
 🔧  IDE's:  Visual Studio Code \
